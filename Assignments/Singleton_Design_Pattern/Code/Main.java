@@ -3,7 +3,7 @@ public class Main {
 
         //illegal construct
         //Compile Time Error: The constructor SingleObject() is not visible
-        //SingleObject object = new SingleObject();
+        // SingleObject object = new SingleObject();
   
         //Get the only object available
         SingleObject object = SingleObject.getInstance();
